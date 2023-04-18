@@ -12,6 +12,7 @@ tags = [
   "responsive",
   "dark",
   "theme"
+  "me"
 ]
 features = [
   "cover-image",

@@ -93,9 +93,9 @@ params:
     mobileMode: auto
     title:
       logo: ''
-      name: LoveIt
+      name: Xueyan
       post: ''
-      pre: <i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i>
+      pre: <i class='far fa-smile fa-fw' aria-hidden='true'></i>
       typeit: no
   home:
     posts:
@@ -107,8 +107,8 @@ params:
       enable: yes
       gravatarEmail: ''
       social: yes
-      subtitle: A Clean, Elegant but Advanced Hugo Theme
-      title: ''
+      subtitle: A Student in Communication Studies
+      title: 'Cao Xueyan'
       typeit: yes
     rss: 10
   images: /logo.png
@@ -468,8 +468,8 @@ languages:
           enable: yes
           gravatarEmail: ''
           social: yes
-          subtitle: A Clean, Elegant but Advanced Hugo Theme
-          title: ''
+          subtitle:  A Student in Communication Studies
+          title: 'Cao Xueyan'
           typeit: yes
         rss: 10
       search:
@@ -556,8 +556,8 @@ languages:
           enable: yes
           gravatarEmail: ''
           social: yes
-          subtitle: 一个简洁、优雅且高效的 Hugo 主题
-          title: ''
+          subtitle: 一名传播学专业的学生
+          title: '曹学燕'
           typeit: yes
         rss: 10
       search:
