@@ -21,15 +21,15 @@ author:
   name: xxx
 menu:
   main:
-    - identifier: posts
-      name: Posts
+    - identifier: projects
+      name: Projects
       post: ''
       pre: ''
       title: ''
-      url: /posts/
+      url: /projects/
       weight: 1
     - identifier: tags
-      name: Tags
+      name: Keywords
       post: ''
       pre: ''
       title: ''
@@ -86,7 +86,7 @@ params:
     icp: ''
     license: <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/"
       target="_blank">CC BY-NC 4.0</a>
-    since: 2019
+    since: 2023
   gitRepo: https://github.com/dillonzq/LoveIt
   header:
     desktopMode: fixed
@@ -379,7 +379,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
 Permalinks:
-  posts: :filename
+  Posts: :filename
 privacy:
   googleAnalytics: {}
   twitter:
@@ -419,7 +419,7 @@ languages:
     menu:
       main:
         - identifier: posts
-          name: Posts
+          name: Projects
           post: ''
           pre: ''
           title: ''
@@ -439,26 +439,26 @@ languages:
           title: ''
           url: /categories/
           weight: 3
-        - identifier: documentation
-          name: Docs
+        - identifier: papers
+          name: Papers
           post: ''
           pre: ''
           title: ''
-          url: /categories/documentation/
+          url: /categories/papers/
           weight: 4
-        - identifier: about
-          name: About
+        - identifier: about me
+          name: About Me
           post: ''
           pre: ''
           title: ''
-          url: /about/
+          url: /about me/
           weight: 5
         - identifier: github
           name: ''
           post: ''
           pre: <i class='fab fa-github fa-fw' aria-hidden='true'></i>
           title: GitHub
-          url: https://github.com/dillonzq/LoveIt
+          url: https://github.com/xueyan22
           weight: 6
     params:
       home:
@@ -508,7 +508,7 @@ languages:
     menu:
       main:
         - identifier: posts
-          name: 所有文章
+          name: 所有项目
           post: ''
           pre: ''
           title: ''
@@ -528,18 +528,18 @@ languages:
           title: ''
           url: /categories/
           weight: 3
-        - identifier: documentation
-          name: 文档
+        - identifier: papers
+          name: 文章
           pre: ''
           title: ''
-          url: /categories/documentation/
+          url: /categories/papers/
           weight: 4
-        - identifier: about
-          name: 关于
+        - identifier: about me
+          name: 关于我
           post: ''
           pre: ''
           title: ''
-          url: /about/
+          url: /about me/
           weight: 5
         - identifier: github
           name: ''
