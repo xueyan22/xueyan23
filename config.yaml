@@ -553,7 +553,7 @@ languages:
           avatarURL: /images/avatar.png
           disclaimer: ''
           enable: yes
-          gravatarEmail: 'caoxueyanluojia@whu.edu.cn'
+          gravatarEmail: ''
           social: yes
           subtitle: 一名传播学专业的学生
           title: '曹学燕'
