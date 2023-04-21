@@ -12,7 +12,7 @@ title: 曹学燕
 
 > 我是一名武汉大学新闻与传播学院的硕士研究生。
 
-![2021年在武大拍摄](/images/Apple-Devices-Preview.png "2021年在武大拍摄")
+![2021年在武大拍摄](/images/Apple-Devices-Preview.jpg "2021年在武大拍摄")
 
 ## 简历（2016～2023）
 
@@ -30,7 +30,7 @@ title: 曹学燕
 
 #### 会议
 
-* **Xueyan Cao**. [The difference between Chinese official news on domestic and imported HPV vaccines](http://beijing2022.iamcr.org/iamcr.org/node/20815.html)《中国官方媒体在国产HPV疫苗和进口HPV疫苗报道上的差异——一项主题模型分析》 2022 International Association for Media and Communication Research Conference (IAMCR). 
+* **Xueyan Cao**. [The difference between Chinese official news on domestic and imported HPV vaccines](http://beijing2022.iamcr.org/iamcr.org/node/20815.html)《中国官方媒体在国产HPV疫苗和进口HPV疫苗报道上的差异》 2022 International Association for Media and Communication Research Conference (IAMCR). 
 
 ### 技能
 

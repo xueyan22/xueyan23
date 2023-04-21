@@ -1,7 +1,7 @@
 timeout : 200000
 baseURL: https://caoxueyan.netlify.app/
 theme: LoveIt
-title: LoveIt
+title: Xueyan
 defaultContentLanguage: en
 languageCode: en
 languageName: English
@@ -61,7 +61,7 @@ params:
     svgFavicon: ''
     themeColor: '#ffffff'
     tileColor: '#da532c'
-    title: LoveIt
+    title: Xueyan
   cdn:
     data: jsdelivr.yml
   compatibility:
@@ -223,9 +223,9 @@ params:
       Evernote: no
       Facebook: yes
       Flipboard: no
-      HackerNews: yes
+      HackerNews: no
       Instapaper: no
-      Line: yes
+      Line: no
       Linkedin: no
       Mix: no
       Odnoklassniki: no
@@ -240,7 +240,7 @@ params:
       Weibo: yes
       Whatsapp: no
       Xing: no
-      enable: yes
+      enable: no
     toc:
       auto: yes
       enable: yes
@@ -279,7 +279,7 @@ params:
     DiscordInvite: ''
     Douban: ''
     Dribbble: ''
-    Email: ''
+    Email: 'caoxueyanluojia@whu.edu.cn'
     Facebook: ''
     Fivehundredpx: ''
     Flickr: ''
@@ -468,7 +468,7 @@ languages:
           enable: yes
           gravatarEmail: ''
           social: yes
-          subtitle:  A Student in Communication Studies
+          subtitle: A Student in Communication Studies
           title: 'Cao Xueyan'
           typeit: yes
         rss: 10
@@ -486,10 +486,9 @@ languages:
         snippetLength: 30
         type: algolia
       social:
-        Email: xxxx@xxxx.com
+        Email: caoxueyanluojia@whu.edu.cn 
         Facebook: xxxx
         GitHub: xxxx
-        Instagram: xxxx
         Mastodon:
           id: '@xxxx'
           prefix: https://mastodon.technology/
@@ -546,7 +545,7 @@ languages:
           post: ''
           pre: <i class='fab fa-github fa-fw' aria-hidden='true'></i>
           title: GitHub
-          url: https://github.com/dillonzq/LoveIt
+          url: https://github.com/xueyan22
           weight: 6
     params:
       home:
@@ -554,7 +553,7 @@ languages:
           avatarURL: /images/avatar.png
           disclaimer: ''
           enable: yes
-          gravatarEmail: ''
+          gravatarEmail: 'caoxueyanluojia@whu.edu.cn'
           social: yes
           subtitle: 一名传播学专业的学生
           title: '曹学燕'
@@ -577,7 +576,7 @@ languages:
         Bilibili: xxxx
         Devto: xxxx
         Douban: xxxx
-        Email: xxxx@xxxx.com
+        Email : caoxueyanluojia@whu.edu.cn
         GitHub: xxxx
         Phone: 555-555-555
         RSS: yes

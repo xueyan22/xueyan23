@@ -12,7 +12,7 @@ title: Cao Xueyan
 
 > I am a graduate student in School of Journalism and Communication, Wuhan University.
 
-![Wuhan University, in 2021](/images/Apple-Devices-Preview.png "Wuhan University, in 2021")
+![Wuhan University, in 2021](/images/Apple-Devices-Preview.jpg "Wuhan University, in 2021")
 
 ## CV (2016~2022)
 

@@ -1,10 +1,10 @@
 # 001: Github
-github:
-  Weight: 1
-  Prefix: https://github.com/
-  Title: GitHub
-  Icon:
-    Class: fab fa-github fa-fw
+#github:
+#  Weight: 1
+ # Prefix: https://github.com/
+  #Title: GitHub
+#  Icon:
+#    Class: fab fa-github fa-fw
 
 # 002: LinkedIn
 linkedin:
@@ -15,36 +15,36 @@ linkedin:
     Class: fab fa-linkedin fa-fw
 
 # 003: Twitter
-twitter:
-  Weight: 3
-  Prefix: https://twitter.com/
-  Title: Twitter
-  Icon:
-    Class: fab fa-twitter fa-fw
+#twitter:
+#  Weight: 3
+#  Prefix: https://twitter.com/
+#  Title: Twitter
+#  Icon:
+#    Class: fab fa-twitter fa-fw
 
 # 004: Instagram
-instagram:
-  Weight: 4
-  Prefix: https://www.instagram.com/
-  Title: Instagram
-  Icon:
-    Class: fab fa-instagram fa-fw
+#instagram:
+#  Weight: 4
+#  Prefix: https://www.instagram.com/
+#  Title: Instagram
+#  Icon:
+#    Class: fab fa-instagram fa-fw
 
 # 005: facebook
-facebook:
-  Weight: 5
-  Prefix: https://facebook.com/
-  Title: facebook
-  Icon:
-    Class: fab fa-facebook fa-fw
+#facebook:
+#  Weight: 5
+#  Prefix: https://facebook.com/
+#  Title: facebook
+#  Icon:
+#    Class: fab fa-facebook fa-fw
 
 # 006: Telegram
-telegram:
-  Weight: 6
-  Prefix: https://t.me/
-  Title: Telegram
-  Icon:
-    Class: fab fa-telegram-plane fa-fw
+#telegram:
+#  Weight: 6
+#  Prefix: https://t.me/
+#  Title: Telegram
+#  Icon:
+#    Class: fab fa-telegram-plane fa-fw
 
 # 007: Medium
 medium:
@@ -63,7 +63,7 @@ gitlab:
     Class: fab fa-gitlab fa-fw
 
 # 009: YouTube Legacy
-youtubelegacy:
+#youtubelegacy:
   Weight: 9
   Prefix: https://www.youtube.com/user/
   Title: YouTube
@@ -159,12 +159,12 @@ stackoverflow:
     Class: fab fa-stack-overflow fa-fw
 
 # 021: 微博
-weibo:
-  Weight: 21
-  Prefix: https://weibo.com/
-  Title: 微博
-  Icon:
-    Class: fab fa-weibo fa-fw
+#weibo:
+#  Weight: 21
+#  Prefix: https://weibo.com/
+#  Title: 微博
+#  Icon:
+#    Class: fab fa-weibo fa-fw
 
 # 022: OK.RU
 odnoklassniki:
@@ -303,12 +303,12 @@ patreon:
     Class: fab fa-patreon fa-fw
 
 # 039: Steam
-steam:
-  Weight: 39
-  Prefix: https://steamcommunity.com/id/
-  Title: Steam
-  Icon:
-    Class: fab fa-steam fa-fw
+#steam:
+#  Weight: 39
+#  Prefix: https://steamcommunity.com/id/
+#  Title: Steam
+#  Icon:
+#   Class: fab fa-steam fa-fw
 
 # 040: Twitch
 twitch:
@@ -343,20 +343,20 @@ whatsapp:
     Class: fab fa-whatsapp fa-fw
 
 # 044: 知乎
-zhihu:
-  Weight: 44
-  Prefix: https://www.zhihu.com/people/
-  Title: 知乎
-  Icon:
-    Simpleicons: zhihu
+#zhihu:
+  #Weight: 44
+  #Prefix: https://www.zhihu.com/people/
+  #Title: 知乎
+  #Icon:
+  #  Simpleicons: zhihu
 
 # 045: 豆瓣
-douban:
-  Weight: 45
-  Prefix: https://www.douban.com/people/
-  Title: 豆瓣
-  Icon:
-    Simpleicons: douban
+#douban:
+  #Weight: 45
+  #Prefix: https://www.douban.com/people/
+  #Title: 豆瓣
+  #Icon:
+  #  Simpleicons: douban
 
 # 046: Angellist
 angellist:
@@ -383,12 +383,12 @@ jsfiddle:
     Class: fab fa-jsfiddle fa-fw
 
 # 049: DeviantArt
-deviantart:
-  Weight: 49
-  Template: https://%v.deviantart.com/
-  Title: DeviantArt
-  Icon:
-    Class: fab fa-deviantart fa-fw
+#deviantart:
+#  Weight: 49
+#  Template: https://%v.deviantart.com/
+#  Title: DeviantArt
+#  Icon:
+#    Class: fab fa-deviantart fa-fw
 
 # 050: Behance
 behance:
@@ -439,7 +439,7 @@ researchgate:
     Class: fab fa-researchgate fa-fw
 
 # 056: Mastodon
-mastodon:
+#mastodon:
   Weight: 56
   Title: Mastodon
   Icon:
@@ -454,12 +454,12 @@ thingiverse:
     Simpleicons: thingiverse
 
 # 058: Dev.To
-devto:
-  Weight: 58
-  Prefix: https://dev.to/
-  Title: Dev.To
-  Icon:
-    Class: fab fa-dev fa-fw
+#devto:
+#Weight: 58
+#  Prefix: https://dev.to/
+#  Title: Dev.To
+#  Icon:
+#    Class: fab fa-dev fa-fw
 
 # 059: Gitea
 gitea:
@@ -485,12 +485,12 @@ matrix:
     Simpleicons: matrix
 
 # 062: bilibili
-bilibili:
-  Weight: 62
-  Prefix: https://space.bilibili.com/
-  Title: bilibili
-  Icon:
-    Simpleicons: bilibili
+#bilibili:
+#  Weight: 62
+#  Prefix: https://space.bilibili.com/
+#  Title: bilibili
+#  Icon:
+#    Simpleicons: bilibili
 
 # 063: Discord User Profile
 discord:
@@ -570,26 +570,26 @@ rootme:
     Src: svg/icons/rootme.svg
 
 # Phone
-phone:
-  Weight: 98
-  Template: tel:%v
-  Title: Phone
-  Icon:
-    Class: fas fa-phone fa-fw
+#phone:
+#  Weight: 98
+#Template: tel:%v
+#  Title: Phone
+#  Icon:
+#    Class: fas fa-phone fa-fw
 
 # Email
-email:
-  Weight: 99
-  Template: mailto:%v
-  Title: Email
-  Icon:
-    Class: far fa-envelope fa-fw
+#email:
+#  Weight: 99
+#  Template: mailto:%v
+#  Title: Email
+#  Icon:
+#    Class: far fa-envelope fa-fw
 
 # RSS
-rss:
-  Weight: 100
-  Url: /index.xml
-  Title: RSS
-  Newtab: true
-  Icon:
-    Class: fas fa-rss fa-fw
+#rss:
+# Weight: 100
+#  Url: /index.xml
+#  Title: RSS
+#  Newtab: true
+ # Icon:
+  #  Class: fas fa-rss fa-fw
