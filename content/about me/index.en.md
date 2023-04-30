@@ -16,6 +16,10 @@ title: Cao Xueyan
 
 ## CV (2016~2022)
 
+{{< admonition tip "Email" >}}
+caoxueyanluojia@whu.edu.cn
+{{< /admonition >}}
+
 ### Education
 
 * **2020～Now**, Wuhan University, School of Journalism and Communication, Master Student of Communication

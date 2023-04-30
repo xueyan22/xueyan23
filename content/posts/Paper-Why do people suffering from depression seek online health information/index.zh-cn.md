@@ -1,20 +1,22 @@
 ---
-author: Dillon
-authorLink: https://dillonzq.com
+author: 曹学燕
+authorLink: https://www.researchgate.net/profile/Xueyan-Cao-3
 categories:
-- documentation
-date: "2020-03-03T11:29:41+08:00"
-description: bilibili shortcode 提供了一个内嵌的用来播放 bilibili 视频的响应式播放器.
+- papers
+date: "2023-04-12T21:40:32+08:00"
+description: Use of Smart Devices
 draft: false
 hiddenFromHomePage: true
 images: []
-lastmod: "2020-03-03T12:29:41+08:00"
+lastmod: "2020-04-012T12:29:41+08:00"
 resources:
 - name: featured-image
   src: featured-image.jpg
 tags:
 - shortcodes
-title: 主题文档 - bilibili Shortcode
+- Literature review
+- Human computer interaction
+title: 一项智能设备使用的文献综述
 toc:
   enable: false
 weight: 9

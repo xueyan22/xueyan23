@@ -100,7 +100,7 @@ params:
   home:
     posts:
       enable: yes
-      paginate: 6
+      paginate: 3
     profile:
       avatarURL: /images/avatar.png
       disclaimer: ''
@@ -249,9 +249,9 @@ params:
   search:
     absoluteURL: no
     algolia:
-      appID: ''
-      index: ''
-      searchKey: ''
+      appID: 'SLJBS2D4CW'
+      index: 'xueyan2023'
+      searchKey: 'b95aa8379622bf2aeba08b13155a73fc'
     contentLength: 4000
     enable: yes
     highlightTag: em

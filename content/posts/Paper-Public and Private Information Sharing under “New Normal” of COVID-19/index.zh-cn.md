@@ -15,9 +15,9 @@ resources:
 tags:
 - Structual Equation Model
 - Health Communication
-title: Public and Private Information Sharing under “New Normal” of COVID-19
+title: 新冠疫情新常态下的信息分享行为研究
 toc:
-  auto: false
+  auto: true
 weight: 1
 ---
 
